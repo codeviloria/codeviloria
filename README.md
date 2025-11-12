@@ -120,8 +120,8 @@ One of my proudest achievements is building a **home cybersecurity lab** where m
 
 #### 📡 [Network Automation Toolkit](https://github.com/ginoviloria/network-automation-toolkit) *(Work in progress)*
 Python framework for automating 4G/5G network configuration and optimization
-- **Impact:** Reduced deployment time from 2 hours to 15 minutes per site (87.5% reduction)
-- **Tech:** Python, Pandas, Jinja2, REST APIs, SQL, Plotly
+- **Impact:** Reduced planing configuration deployment time from 2 hours to 15 minutes per site (87.5% reduction)
+- **Tech:** Python, Pandas, Jinja2, REST APIs, SQL, Plotly, grafana
 - **Features:** Multi-vendor support, automated KPI validation, real-time monitoring
 
 #### 🧠 [ML for Telecom](https://github.com/ginoviloria/ml-for-telecom) *(Private/Coming soon)*
@@ -134,13 +134,13 @@ Machine Learning models for predictive network optimization
 
 ### 🎮 Game Development & Teaching
 
-#### 🕹️ [Unity Platformer MVP](https://github.com/ginoviloria/unity-platformer-natalia) *(With Natalia)*
+#### 🕹️ [Unity Platformer MVP](https://github.com/ginoviloria/unity-platformer-natalia) *(With Natalia 2024)*
 Complete 2D platformer game developed as father-daughter mentoring project
 - **Learning Journey:** Teaching game physics, C# programming, Unity engine
 - **Features:** Character controllers, collision detection, level progression
 - **Tech:** Unity, C#, game design patterns
 
-#### 🎯 [Computer Vision Science Fair Project](https://github.com/ginoviloria/cv-science-fair) *(Coming soon)*
+#### 🎯 [Computer Vision Science Fair Project](https://github.com/ginoviloria/cv-science-fair) *(2023)*
 🏆 **1st Place Winner** - Real-time object detection system
 - **Achievement:** Coached Natalia to science fair victory
 - **Tech:** Python, OpenCV, YOLO, TensorFlow
@@ -150,14 +150,14 @@ Complete 2D platformer game developed as father-daughter mentoring project
 
 ### 🔧 Open Source Contributions
 
-#### 🤖 [Wally - Electronics Development](https://github.com/contributor/wally)
+#### 🤖 [Wally - Electronics Development](https://github.com/contributor/wally) *(2023)*
 Development coach for electronics/embedded systems project
 - **Role:** Technical mentorship, architecture guidance
 - **Focus:** Hardware-software integration, best practices
 
 ---
 
-### 🔐 Family Tech Lab Resources *(Coming soon)*
+### 🔐 Family Tech Lab Resources *(Coming soon)* *(2026)*
 
 A collection of resources, guides, and writeups from our home cybersecurity lab:
 - VM setup tutorials for beginners
