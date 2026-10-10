@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Senior+Telecom+Engineer+%E2%86%92+Software+Developer;14%2B+Years+Network+Telecoms+Infrastructure+Expert;ML%2FAI+for+Telecom+Applications;Building+Automation+Tools+for+Networks;Family+Tech+Lab+Builder+%F0%9F%94%90;Open+Source+Contributor;API+Integrator;AI+Integrator;Serverless+Cloud+Deployment)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Senior+RAN+Engineer+%E2%86%92+AI+Engineer;15%2B+Years+in+2G-5G+Radio+Networks;AI+Agents+for+Network+Operations;LangChain+%C2%B7+LangSmith+%C2%B7+Ollama;Local+RAG+%C2%B7+MCP+Servers+(FastMCP);Python+Automation+for+RAN)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,45 +12,47 @@
 class GinoViloria:
     def __init__(self):
         self.name = "Gino Viloria"
-        self.role = "Senior Telecom Engineer | Software Developer"
+        self.role = "Senior RAN Engineer | AI Agents for Network Operations"
         self.location = "Barranquilla, Colombia 🇨🇴"
         self.education = {
             "undergrad": "Telecommunications Engineering",
             "postgrad": "AI & Machine Learning - UT Austin 🤘"
         }
-        
+
     def get_expertise(self):
         return {
-            "telecom": ["2G-5G Networks", "vRAN/Open RAN", "Network Optimization"],
-            "software": ["Python", "C#", "JavaScript", "SQL", "API integrations", "AI integration"],
-            "ml_ai": ["TensorFlow", "scikit-learn", "PyTorch", "Agents"],
-            "cloud": ["AWS", "GCP", "Docker", "ServerlessFramework"],
-            "data": ["Pandas", "ETL Pipelines", "Airflow", "PostgreSQL"]
+            "telecom": ["2G-5G Networks", "5G NSA/SA", "vRAN/Open RAN", "RF Planning & Optimization"],
+            "software": ["Python", "SQL", "Bash", "FastAPI", "C# (Unity)"],
+            "ai": ["LangChain", "LangSmith", "Ollama (local LLMs)", "RAG + embeddings", "MCP (FastMCP)", "scikit-learn"],
+            "infra": ["Docker", "Linux", "GitHub Actions", "Terraform + AWS (personal project)"],
+            "data": ["pandas", "PostgreSQL (JSONB, pgvector)", "Grafana", "Power BI"]
         }
-    
+
     def what_makes_me_unique(self):
         return """
         🎯 Unique Combination:
-        - 14+ years of deep RAN telecom infrastructure knowledge
-        - Modern software development & ML/AI skills
-        - I build automation tools that ACTUALLY solve operational problems
-          because I understand the domain deeply
-        
+        - 15+ years of hands-on RAN experience across Latin America and Japan
+        - Python/SQL automation and AI agents built on that domain knowledge
+        - I build tools that solve real operational problems
+          because I've lived those problems in the field
+
         👨‍👧 Passion for Teaching:
-        - Built a Family Tech Lab with VMs infrastructure
-        - Teaching cybersecurity & networking to my daughter Natalia (15)
-        - She won 1st place in science fair with CV project we built together!
+        - Built a Family Tech Lab with VM infrastructure
+        - Teaching cybersecurity & networking to my daughter
+        - She won 1st place in a science fair with a CV project we built together!
         """
-    
+
     def current_focus(self):
         return [
-            "🔨 Building network automation frameworks",
-            "🤖 Developing ML models for predictive network optimization",
-            "🎮 Creating games in Unity/Godot with my daughter",
-            "🔐 Solving CTF challenges (Hack The Box, TryHackMe)",
-            "📚 Learning MLOps, cloud-native architectures, and Italian 🇮🇹"
+            "🤖 Building AI agents for RAN troubleshooting (5G NSA / EN-DC)",
+            "📚 LangChain Academy → LangChain Certified Agent Engineer (LCAE)",
+            "🧠 Learning LangGraph, agent memory, middleware and the A2A protocol",
+            "🔧 Learning to fine-tune open-weight models (LoRA / QLoRA)",
+            "🧪 Evaluating agents with LangSmith datasets and graders",
+            "🎮 Creating games in Unity with my daughter",
+            "🔐 Hack The Box machines + web security path, TryHackMe"
         ]
-    
+
     def hobbies(self):
         return ["🏄 Surfing", "🛹 Skateboarding", "🏃 Running", "👨‍👧 Family Tech Time"]
 
@@ -67,33 +69,33 @@ print(me.what_makes_me_unique())
 <tr>
 <td width="50%">
 
-### 🏗️ Telecom RAN Infrastructure Expert
-- **14+ years** optimizing 2G-5G networks
-- Worked with **Rakuten Mobile** (Japan) on world's first fully virtualized Open RAN network
-- Multi-vendor expertise: **Nokia**, **Huawei**, **Altiostar**, **Airspan**
-- Deep knowledge of **network architecture**, **RF optimization**, **cloud-native telco**
+### 🏗️ Telecom RAN Expert
+- **15+ years** optimizing 2G–5G networks in 8 countries
+- RF team that launched **Rakuten Mobile** (Japan), the first fully virtualized Open RAN commercial network
+- Multi-vendor: **Huawei**, **Nokia**, **Ericsson**, **Altiostar**, **Airspan**
+- KPI root-cause analysis, L3/E2E signaling, parameter audits
 
 </td>
 <td width="50%">
 
-### 💻 Software Developer & ML Engineer
-- **Python automation** reducing deployment time by **70%**
-- **ML models** for predictive network optimization
-- **ETL pipelines** processing **10M+ records daily**
+### 🤖 Automation & AI Builder
+- **Python/SQL automation:** site configuration from ~2 h to ~20 min per site
+- **Golden Parameter Audit:** ~30K Huawei cells, ~800K findings (PostgreSQL + Grafana)
+- **AI agents on local models**, traced and debugged in LangSmith
+- **Local RAG and MCP servers** (FastMCP) on a CPU home lab
 - Post-grad in **AI/ML from UT Austin**
-- Building **LLM-powered** telecom solutions
 
 </td>
 </tr>
 </table>
 
-**Result:** I speak both languages (telecom infrastructure + modern software development) and build solutions that bridge the gap between operational reality and cutting-edge technology.
+**Result:** I speak both languages, RAN operations and modern software, and build tools that close the gap between them.
 
 ---
 
 ## 👨‍👧 Family Tech Lab 🔐
 
-One of my proudest achievements is building a **home cybersecurity lab** where my 15-year-old daughter Natalia and I learn together:
+A **home cybersecurity lab** where my daughter and I learn together:
 
 <div align="center">
 
@@ -102,7 +104,7 @@ One of my proudest achievements is building a **home cybersecurity lab** where m
 | **5+ Virtual Machines** | Hack The Box challenges | Science Fair 1st Place |
 | Kali Linux + VulnHub | TryHackMe rooms | Computer Vision Project |
 | Network segmentation | pwn.college exercises | Unity Game Development |
-| Firewall configs | CTF competitions | Public GitHub contributions |
+| Firewall configs | CTF competitions | |
 
 </div>
 
@@ -116,54 +118,56 @@ One of my proudest achievements is building a **home cybersecurity lab** where m
 
 ## 🔥 Featured Projects
 
-### 🤖 Network Automation & ML
+### 🤖 AI Agents for Telecom
 
-#### 📡 [Network Automation Toolkit](https://github.com/ginoviloria/network-automation-toolkit) *(Work in progress)*
-Python framework for automating 4G/5G network configuration and optimization
-- **Impact:** Reduced planing configuration deployment time from 2 hours to 15 minutes per site (87.5% reduction)
-- **Tech:** Python, Pandas, Jinja2, REST APIs, SQL, Plotly, grafana
-- **Features:** Multi-vendor support, automated KPI validation, real-time monitoring
+#### 📡 [5G NSA Troubleshooting Agent](https://github.com/codeviloria/5g-nsa-agent)
+Tool-calling agent that diagnoses 5G NSA (EN-DC) problems: SMTC vs SSB timing, B1 threshold, NR PCI mod-3/mod-30 and per-SSB-beam quality.
+- **How:** runs 100 % locally on Ollama (Qwen3 8B on CPU); built twice, as a plain Python loop and with LangChain `create_agent`; traced in LangSmith
+- **Result:** four trace-driven iterations took it from stopping at the first finding to **every root cause found, with no unsupported actions, in both test scenarios**
+- **Tech:** Python, LangChain, LangSmith, Ollama, uv, GitHub Actions · fictional network data
 
-#### 🧠 [ML for Telecom](https://github.com/ginoviloria/ml-for-telecom) *(Private/Coming soon)*
-Machine Learning models for predictive network optimization
-- **Models:** Network congestion prediction, coverage issue detection
-- **Accuracy:** 85%+ in identifying problem areas before customer impact
-- **Tech:** scikit-learn, TensorFlow, pandas, Jupyter notebooks
+#### ✍️ [Signal to Agents](https://signal-to-agents.pages.dev) · [repo](https://github.com/codeviloria/signal-to-agents)
+My lab notebook on AI agents for telecom, in English and Spanish.
+- **Tech:** Astro, Cloudflare Pages
+
+#### 🖥️ Home AI Lab *(personal)*
+Three CPU-only servers for local AI experiments.
+- Local LLMs and **embedding models** with Ollama
+- **RAG proofs of concept** over local knowledge bases
+- **MCP servers built with FastMCP and deployed**
+- WireGuard mesh across five machines running parallel AI coding agents
+
+---
+
+### 🔧 Network Automation *(work projects, code not public)*
+
+#### 🔎 Golden Parameter Audit Framework
+Python ingestion of Huawei MAE configuration exports (~30K LTE cells + 5G NR) into PostgreSQL 16 (JSONB), rule-based validation (~800K findings). Reporting evolved from Grafana / Power BI to a Next.js web front end, with Gradio for quick POCs.
+
+#### ⚙️ Site Configuration Automation
+Python + Jinja2 templates that generate 4G/5G site parameter scripts from planning data: **~2 h → ~20 min per site**, no manual typing errors.
+
+#### 📍 RAN Field-Validation Tools *(personal)*
+Python tools and a Telegram bot that, for a coordinate or cell, pull alarms, KPIs and configuration from Huawei OSS and cross-check crowdsourced coverage: one message instead of four tools. **Next:** expose them as tools for an agent.
+
+### ☁️ LeadTide *(personal, in development, not deployed)*
+Serverless CRM designed with Terraform for AWS: Lambdas behind API Gateway (JWT), RDS PostgreSQL + pgvector, SQS workers with DLQ, CI/CD with GitHub Actions + OIDC.
 
 ---
 
 ### 🎮 Game Development & Teaching
 
-#### 🕹️ [Unity Platformer MVP](https://github.com/ginoviloria/unity-platformer-natalia) *(With Natalia 2024)*
-Complete 2D platformer game developed as father-daughter mentoring project
-- **Learning Journey:** Teaching game physics, C# programming, Unity engine
-- **Features:** Character controllers, collision detection, level progression
-- **Tech:** Unity, C#, game design patterns
+#### 🕹️ Unity Platformer MVP *(with my daughter)*
+2D platformer built as a father-daughter mentoring project.
+- **Learning journey:** game physics, C# programming, Unity engine
+- **Tech:** Unity, C#
 
-#### 🎯 [Computer Vision Science Fair Project](https://github.com/ginoviloria/cv-science-fair) *(2023)*
-🏆 **1st Place Winner** - Real-time object detection system
-- **Achievement:** Coached Natalia to science fair victory
-- **Tech:** Python, OpenCV, YOLO, TensorFlow
-- **Impact:** Demonstrates teaching ability and technical communication skills
+#### 🎯 Computer Vision Science Fair Project *(2023)*
+🏆 **1st Place Winner**: real-time object detection system.
+- **Tech:** Python, OpenCV, YOLO
 
----
-
-### 🔧 Open Source Contributions
-
-#### 🤖 [Wally - Electronics Development](https://github.com/contributor/wally) *(2023)*
-Development coach for electronics/embedded systems project
-- **Role:** Technical mentorship, architecture guidance
-- **Focus:** Hardware-software integration, best practices
-
----
-
-### 🔐 Family Tech Lab Resources *(Coming soon)* *(2026)*
-
-A collection of resources, guides, and writeups from our home cybersecurity lab:
-- VM setup tutorials for beginners
-- CTF writeups explained for teens
-- Networking fundamentals for young learners
-- Parent's guide to teaching cybersecurity
+#### 🤖 Wally, Electronics Development *(2023)*
+Technical mentorship on an electronics/embedded project: architecture guidance and hardware-software integration.
 
 ---
 
@@ -173,48 +177,43 @@ A collection of resources, guides, and writeups from our home cybersecurity lab:
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-### ML/AI & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+### AI & Data Science
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+### Infra & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-### Development Tools
+### Data & Visualization
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
-
-### Databases & Data
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-
-### Visualization & BI
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
-### Cybersecurity & Networking
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+
+### 📚 Learning now
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LoRA/QLoRA](https://img.shields.io/badge/Fine--tuning-LoRA_%7C_QLoRA-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 </div>
 
@@ -229,24 +228,21 @@ A collection of resources, guides, and writeups from our home cybersecurity lab:
 
 </div>
 
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codeviloria&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
 ---
 
 ## 🎓 Certifications & Continuous Learning
 
 <details>
-<summary><b>🏆 Recent Certifications (Click to expand)</b></summary>
+<summary><b>🏆 Certifications (click to expand)</b></summary>
 
 ### AI & Machine Learning
 - 🎓 **Post-Graduate Program in AI & ML** - University of Texas at Austin (2024)
+- 📜 **Introduction to LangChain (Python)** - LangChain Academy (2026)
+- 📜 **AI Agents** - Kaggle
 - 📜 **Machine Learning Specialization** - IBM Cognitive Class
-- 📜 **Neural Networks with TensorFlow** - Platzi Professional Course
+- 📜 **Neural Networks with TensorFlow** - Platzi
 - 📜 **LangChain & Vector Databases for NLP** - Platzi
+- ⏳ **LangChain Certified Agent Engineer (LCAE)** - in preparation
 
 ### Data Science & Engineering
 - 📜 **Data Visualization with Python** - IBM Cognitive Class
@@ -257,35 +253,27 @@ A collection of resources, guides, and writeups from our home cybersecurity lab:
 ### Cloud & DevOps
 - 📜 **Docker Fundamentals** - Platzi
 - 📜 **PostgreSQL Database Administration** - Platzi
-- 📜 **MLOps: Deployment of ML Models** - Platzi *(in progress)*
-- 📜 **AWS Cloud Architecture** - Self-study
 
 ### Telecom Expertise
 - 📜 **5G RF Planning and Design** - Award Solutions Inc (USA)
+- 📜 **LTE RF Optimization** - Award Solutions Inc (USA)
 - 📜 **Open RAN & vRAN Architecture** - Rakuten Mobile Training
-- 📜 **LTE/5G Optimization** - Multiple certifications (2014-2021)
 
 ### Other
 - 📜 **Git & GitHub Collaborative Work** - UBITS & Platzi
 - 📜 **Google Workspace Administration** - 2024
 - 🏆 **CTF Competition Winner** - Barranquilla Cybersecurity Challenge (2024)
 - 🏆 **Hackathon Participant** - Google Developer Group Barranquilla (2024)
+- 🏆 **Hackathon Participant** - Kaggle (Gemma)
 
 </details>
 
 ---
 
-## 📝 Latest Blog Posts & Content
+## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-*Coming soon: Technical blog posts on network automation, ML for telecom, and teaching cybersecurity*
-
-**Planned Topics:**
-- 🔧 Building Network Automation Tools with Python
-- 🤖 ML Models for Predictive Network Optimization
-- 👨‍👧 Teaching Cybersecurity to Teenagers: A Parent's Guide
-- 🎮 Game Development as a Teaching Tool
-- 🌐 From RF Engineer to Software Developer: Lessons Learned
+- 📡 [Teaching a Local LLM to Troubleshoot 5G NSA: What the Traces Taught Me](https://signal-to-agents.pages.dev/blog/5g-nsa-agent-tool-calling-gemma4/) · [en español](https://signal-to-agents.pages.dev/blog/es/5g-nsa-agent-tool-calling-gemma4/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -293,19 +281,16 @@ A collection of resources, guides, and writeups from our home cybersecurity lab:
 ## 🤝 Let's Connect!
 
 I'm always interested in connecting with people working on:
+- 🤖 **AI agents** for network operations
 - 🌐 **Network automation** and intelligent infrastructure
-- 🤖 **ML/AI applications** in telecommunications
-- ☁️ **Cloud-native architectures** for telco
+- 🧠 **Local LLMs**, RAG and agent evaluation
 - 👨‍🏫 **Technical education** and mentoring
 - 🔐 **Cybersecurity** and ethical hacking
-- 🎮 **Game development** and interactive learning
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/XXXX)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codevilor.ia@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://codevilor.ia.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gino-viloria-4690753a/)
+[![Blog](https://img.shields.io/badge/Blog-Signal_to_Agents-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://signal-to-agents.pages.dev)
 
 </div>
 
@@ -316,32 +301,33 @@ I'm always interested in connecting with people working on:
 <div align="center">
 
 > *"The best way to learn is to teach. The best way to master something is to explain it to others."*
-> 
-> This philosophy drives everything I do - from building the Family Tech Lab to contributing to open source.
+>
+> This philosophy drives everything I do, from the Family Tech Lab to writing about every agent I build.
 
 </div>
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 Q4 2026 Focus
 
-- [ ] 🚀 Launch 3 major open source projects (network automation, ML for telecom, family tech resources)
-- [ ] 📝 Write 12 technical blog posts
-- [ ] 🎓 Complete MLOps specialization
-- [ ] 🌍 Contribute to 5+ external open source projects
-- [ ] 👨‍👧 Help Natalia build her own GitHub portfolio
-- [ ] 🇮🇹 Reach B1 level in Italian
-- [ ] 🏆 Place in top 100 on Hack The Box
+- [x] 🚀 Publish my first open-source AI agent ([5g-nsa-agent](https://github.com/codeviloria/5g-nsa-agent))
+- [x] 📝 Launch my technical blog ([Signal to Agents](https://signal-to-agents.pages.dev))
+- [x] 🎓 Complete *Introduction to LangChain* (LangChain Academy)
+- [ ] 🎓 LangChain Certified Agent Engineer (LCAE)
+- [ ] 🧪 Add LangSmith evaluation (dataset + graders) to the 5G agent
+- [ ] 🧠 Add LangGraph and agent memory to the 5G agent
+- [ ] 🔧 Fine-tune a small open-weight model with QLoRA (Kaggle GPU) and compare it against the base model
+- [ ] 📝 Second blog post
 
 ---
 
 ## 🌟 Fun Facts
 
-- 🏄 I combine surfing sessions with debugging sessions - both require patience and reading the waves/logs
+- 🏄 I combine surfing sessions with debugging sessions: both require patience and reading the waves/logs
 - 🛹 Been skateboarding since before I knew what an IP address was
 - 👨‍👧 My daughter can now explain buffer overflows better than some senior engineers
 - 🎮 Learning game development is teaching me more about clean code than most books
-- 🌊 Based in Barranquilla, Colombia - where the Caribbean meets cutting-edge tech
+- 🌊 Based in Barranquilla, Colombia, where the Caribbean meets cutting-edge tech
 
 ---
 
@@ -349,7 +335,7 @@ I'm always interested in connecting with people working on:
 
 ### 📈 Profile Views
 
-![](https://komarev.com/ghpvc/?username=ginoviloria&color=blueviolet&style=flat-square&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=codeviloria&color=blueviolet&style=flat-square&label=Profile+Views)
 
 ---
 
@@ -362,5 +348,5 @@ I'm always interested in connecting with people working on:
 ---
 
 <div align="center">
-<sub>Last updated: November 2025 | Made with ❤️ and lots of ☕</sub>
+<sub>Last updated: October 2026 | Made with ❤️ and lots of ☕</sub>
 </div>
